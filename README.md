@@ -50,17 +50,8 @@ const API_KEY = 'your-api-key-here';
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla)
+* JavaScript
 * ExchangeRate-API
-
-
-### 🧩 Future Improvements
-
-* Add a swap button to switch "From" and "To" currencies
-* Add theme toggle (light/dark mode switch)
-* Save last conversion for history or localStorage
-* Keyboard accessibility and tab navigation
-
 
 ### 📄 License
 
