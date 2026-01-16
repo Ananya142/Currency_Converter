@@ -48,8 +48,8 @@ const API_KEY = 'your-api-key-here';
 
 ### 🛠️ Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 * ExchangeRate-API
 
