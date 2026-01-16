@@ -17,7 +17,6 @@ A simple, responsive Currency Converter built using **HTML**, **CSS**, and **Jav
 * ✅ Real-time exchange rates using ExchangeRate-API
 * 🌍 Wide range of currencies supported
 * 💻 Responsive and clean user interface
-* 🎨 Light/Dark mode support (CSS included for dark mode toggle)
 * 🧪 Input validation and error handling
 
 
